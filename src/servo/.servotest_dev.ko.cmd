@@ -1,0 +1,1 @@
+cmd_/home/pi/Documents/servo/servotest_dev.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/pi/Documents/servo/servotest_dev.ko /home/pi/Documents/servo/servotest_dev.o /home/pi/Documents/servo/servotest_dev.mod.o ;  true
